@@ -710,4 +710,4 @@ b1n4ry.php
 default.php
 blank.php
 flag
-TTCTF{we_found_you}
+
