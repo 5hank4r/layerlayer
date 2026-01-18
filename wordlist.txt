@@ -709,3 +709,4 @@ b1n4ry.php
 12.php
 default.php
 blank.php
+flag
