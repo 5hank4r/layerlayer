@@ -518,8 +518,6 @@ noname_config/
 idx_symconf/
 symconf/
 root/
-test = internal testing
-vapt = security validation pipeline
 file/
 files/
 config.txt
